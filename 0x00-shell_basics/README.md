@@ -7,3 +7,4 @@ This script lists all the files, including the user's ID in am numerical oreder 
 This script creates a directory named my first directory in the /tmp/ directory
 This script moves betty from tmp to tmp/ my first directory
 This script removes the betty file from tmp/ my first school
+This script deletes the my first directory that is in the /tmp
