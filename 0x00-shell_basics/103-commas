@@ -1,2 +1,2 @@
 #!/bin/bash
-( (ls -Ap | printf "./\n../\n"; ls -1Ap | grep -E '^\./' | tr '\n' ',') | tr -d '\n'; echo )
+ls -p -la -m
