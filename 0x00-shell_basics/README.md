@@ -13,3 +13,4 @@ This script lists all files (even ones with names beginning with a period charac
 This script prints the type of file named iamafile
 Thi script creates a symbolic link
 This script copies html files from the current working directory to the parent directory
+This script coves all files that starts with an upper cae
