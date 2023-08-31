@@ -17,3 +17,4 @@ This script coves all files that starts with an upper case
 This script deletes all files that has the tide symbol
 This script creates multiple directorie with less typing
 This command that lists all the files and directories of the current directory, separated by commas (,).
+This command creates a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
