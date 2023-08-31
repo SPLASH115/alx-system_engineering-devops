@@ -16,3 +16,4 @@ This script copies html files from the current working directory to the parent d
 This script coves all files that starts with an upper case
 This script deletes all files that has the tide symbol
 This script creates multiple directorie with less typing
+This command that lists all the files and directories of the current directory, separated by commas (,).
